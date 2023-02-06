@@ -31,8 +31,8 @@ This is a screenshot of my work:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/Aleqsa123/ntf)
+- Live Site URL: (https://aleqsa123.github.io/ntf/)
 
 
 ## My process
