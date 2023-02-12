@@ -27,7 +27,7 @@ Users are able to view the optimal layout depending on their device's screen siz
 
 This is a screenshot of my work:
 
-![](../screenshot.jpg)
+![](./images/screenshot.JPG)
 
 ### Links
 
@@ -87,6 +87,7 @@ I have to work more on CSS layout, because for me this was the hardest part of t
 
 ## Author
 
-- Facebook - [Aleksi Merebashvili](https://www.facebook.com/aleksi.merebashvili)
+- Frontendmentor - [Aleqsa123] (https://www.frontendmentor.io/profile/Aleqsa123)
 - Github - [Aleqsa123](https://github.com/Aleqsa123)
 - Linkedin - [Aleksi Merebashvili](https://www.linkedin.com/in/aleksi-merebashvili-36627426/)
+- Facebook - [Aleksi Merebashvili](https://www.facebook.com/aleksi.merebashvili)
